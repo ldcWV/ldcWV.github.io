@@ -121,7 +121,7 @@ a:hover {
 /* MISCELLANEOUS */
 #profile-picture {
     border-radius: 50%;
-    max-width: 200px;
+    max-width: 100px;
     margin: 20px auto 30px auto;
     display: flex;
     border: 1px solid rgb(32, 32, 32);

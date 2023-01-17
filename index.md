@@ -5,7 +5,7 @@ title: Home
 
 ![](assets/images/lawrence.jpg){: #profile-picture}
 # Lawrence Chen
-Welcome to my personal website! I'm a computer science major at Carnegie Mellon University. My main interests are computer graphics and machine learning. In the past, I've interned at Google, Facebook, and Jump Trading. The main purpose of this website is to document personal/course projects.
+Hello! I am a computer science student at Carnegie Mellon University. My main areas of interest are computer graphics and machine learning. I have had the opportunity to gain experience through internships at Google, Meta, and Jump Trading. This website serves as a platform to exhibit my personal and academic projects.The main purpose of this website is to showcase my personal and course projects.
 
 Here are some relevant links:
 - [Resume](assets/images/LawrenceChenResume.pdf)
