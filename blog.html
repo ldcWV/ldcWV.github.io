@@ -7,7 +7,7 @@ title: Blog
 <div class="blog-post">
     <div class="blog-post-title-and-author">
         <div class="blog-post-title">{{ post.title }}</div>
-        <div class="blog-post-date">{{ post.date | date: "%m/%d/%Y" }}</div>
+        <!-- <div class="blog-post-date">{{ post.date | date: "%m/%d/%Y" }}</div> -->
     </div>
     <div class="blog-post-summary">{{ post.summary }}</div>
     <a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">
